@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "Producer\Producer.csproj", "{5F4D21C2-575F-495F-A194-B712C6B0A108}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Producer", "src\ServiceBusDemo\Producer\Producer.csproj", "{5F4D21C2-575F-495F-A194-B712C6B0A108}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "Consumer\Consumer.csproj", "{B9D92BA9-1DAD-4C63-A698-464DC098052B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Consumer", "src\ServiceBusDemo\Consumer\Consumer.csproj", "{B9D92BA9-1DAD-4C63-A698-464DC098052B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
